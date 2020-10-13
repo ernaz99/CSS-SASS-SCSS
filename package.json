@@ -1,0 +1,16 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "sass install",
+  "main": "index.js",
+  "scripts": {
+   "sass": "node-sass sass/style.scss css/style.css -w"
+  },
+  "author": "Yernas",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
+
+
